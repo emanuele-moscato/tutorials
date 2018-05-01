@@ -5,4 +5,4 @@ A collection of tutorials, in the form of Jupyter notebooks, to help people gett
 ## Topics covered
 
 * Linear regression and binary classification.
-* Neural network basics: using Keras layers with TensorFlow (explicitely copied from https://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html).
+* Neural network basics: using Keras layers with TensorFlow (code taken from https://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html, with some explanation around it).
